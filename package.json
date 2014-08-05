@@ -1,0 +1,19 @@
+{
+  "name": "faltou",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "leaflet": "^0.7.3",
+    "mongo": "^0.1.0"
+  },
+  "devDependencies": {
+    "beefy": "^2.1.0",
+    "browserify": "^5.9.1"
+  },
+  "scripts": {
+     "start": "beefy app.js:bundle.js --live"
+  },
+  "author": "Maurilio Atila Carvalho de Santana",
+  "license": "ISC"
+}
