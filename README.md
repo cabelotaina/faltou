@@ -41,6 +41,8 @@ package.json
 
 Materiais auxiliares:
 
+https://www.youtube.com/watch?v=4sGgB2SBMew
+
 tutorial em vídeo:
 
 material auxiliar do tutorial em vídeo
