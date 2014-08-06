@@ -53,6 +53,10 @@ mark cluster (varios pontos em um unico ponto)
 
 https://github.com/Leaflet/Leaflet.markercluster
 
+Materia sobre como usar mongodb com nodejs:
+
+http://howtonode.org/node-js-and-mongodb-getting-started-with-mongojs
+
 guia rapido leaflet:
 
 http://leafletjs.com/examples/quick-start.html
