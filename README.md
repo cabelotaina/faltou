@@ -41,13 +41,17 @@ package.json
 
 Materiais auxiliares:
 
-https://www.youtube.com/watch?v=4sGgB2SBMew
-
 tutorial em vídeo:
+
+https://www.youtube.com/watch?v=4sGgB2SBMew
 
 material auxiliar do tutorial em vídeo
 
 https://github.com/thesteve0/fluentwebmap/blob/master/server.js
+
+mark cluster (varios pontos em um unico ponto)
+
+https://github.com/Leaflet/Leaflet.markercluster
 
 
 TODO
