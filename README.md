@@ -53,6 +53,10 @@ mark cluster (varios pontos em um unico ponto)
 
 https://github.com/Leaflet/Leaflet.markercluster
 
+guia rapido leaflet:
+
+http://leafletjs.com/examples/quick-start.html
+
 
 TODO
 
